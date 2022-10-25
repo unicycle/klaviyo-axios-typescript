@@ -1,0 +1,14 @@
+{
+  "name": "klaviyo-axios-typescript",
+  "version": "1.0.0",
+  "description": "This repo contains a typescript client for the klaviyo api, based on the swagger spec provided to us by klaviyo(`oas.json`). This client is generated using [`openapi-generator`](https://openapi-generator.tech/) you can find docs for the generator we are using `typescript-axios` [here](https://openapi-generator.tech/docs/generators/typescript-axios/).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "plot",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.1.3"
+  }
+}
